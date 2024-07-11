@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=10:ffc0c0,30:ffd7f8,75:dbc0ff,100:c0cfff&height=100&section=header&text=&fontSize=0" width="100%"/>
-# ji006
+ji006
 <br />
 안녕하세요! 🙋‍♂️ 개발자 입니다. 
 <br />
@@ -8,7 +8,6 @@ My values
 <br />
 😎 모든것은 재미있어야 합니다<br />
 😆 하고 싶은건 다 해봅니다.<br />
-<br />
 <br />
 <br />
 How i work<br />
