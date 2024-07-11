@@ -1,17 +1,18 @@
-## ji006
+<img src="https://capsule-render.vercel.app/api?type=waving&color=10:ffc0c0,30:ffd7f8,75:dbc0ff,100:c0cfff&height=100&section=header&text=&fontSize=0" width="100%"/>
+# ji006
+<br />
 안녕하세요! 🙋‍♂️ 개발자 입니다. 
-<!-- 개발은 Programming이 아닌 Development라는 생각으로, 개발자 뿐 아니라 모든 직군이 함께 해야하는 것 이라고 생각합니다.
-항상 이야기하는것을 좋아하고 비난이 아닌 비판은 언제든지 환영합니다. 🥰 모두 행복했으면 좋겠어요! -->
 <br />
 <br />
-My values<br />
+My values
+<br />
 😎 모든것은 재미있어야 합니다<br />
-😆 하고 싶은건 하고 살아야합니다.<br />
+😆 하고 싶은건 다 해봅니다.<br />
 <br />
 <br />
 <br />
 How i work<br />
-저는 행복하고 재미있게 일하고 싶습니다. 약속한 시간을 지키기 위해 노력합니다. 
+저는 행복하고 재미있게 일하고 싶습니다. 약속한 시간을 지키기 위해 노력합니다. 아직 개발자로 일해본 적이 없어 저의 
 <br />
 <br />
 <br />
@@ -35,3 +36,5 @@ I've used it before.
 <br />
 <br />
 <br />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=10:ffc0c0,30:ffd7f8,75:dbc0ff,100:c0cfff&height=40&section=footer&text=&fontSize=0" width="100%"/>
+
