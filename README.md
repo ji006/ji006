@@ -51,7 +51,7 @@
 
 ### 🚀 Projects
 
-* 💖 **[Heartfolio (하트폴리오)](https://github.com/ji006/https://github.com/ji006/5-team-cracre-heartfolio-fe)** : 모의투자로 수익을 내고 기부로 마음을 나누는 플랫폼
+* 💖 **[Heartfolio (하트폴리오)](https://github.com/ji006/5-team-cracre-heartfolio-fe)** : 모의투자로 수익을 내고 기부로 마음을 나누는 플랫폼
 
 <br />
 <br />
